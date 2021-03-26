@@ -3,3 +3,4 @@
 0.0.0.0 youtube.com
 0.0.0.0 googlevideo.com
 0.0.0.0 discord.com
+0.0.0.0 nick.de
