@@ -20,7 +20,7 @@ You can also block `port 853` for DNS over TLS (DoT)
 
 Blocking DoH entirely might not be the best approch for everyone, especially if your company wants the benefits of using encrypted DNS while being able to analyse suspicious communications. **<a href="https://www.sans.org/reading-room/whitepapers/dns/dealing-doh-methods-increase-dns-visibility-doh-gains-traction-39560"> This paper </a> demonstrate the possibility of redirecting all traffic from `port 453` to PolarProxy and Security Onion, allowing you to analyse DoH traffic in an unencrypted form.**
 
-## Additionnal ressources :blue_book:
+## Additionnal ressources
 
 - <a href="https://www.youtube.com/watch?v=pjin3nv8jAo"> NLNOG 2019 - DNS over HTTPS considerations</a>.
 - <a href="https://www.ietf.org/archive/id/draft-doh-reid-operator-00.txt">DoH draft for the IETF</a> ("Privacy Concerns" and "Security Considerations").
