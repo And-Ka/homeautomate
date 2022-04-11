@@ -1,4 +1,4 @@
-<h3 align="center">IMAGE</h3>
+<h3 align="center"><img src=https://github.com/asyncecho/homeautomate/blob/main/PiHole/TheGreatWall/Images/Cover.jpg alt="THeGreatWall" height="250px"></h3>
 
 ## What is DNS-over-HTTPS (DoH) ?
 
