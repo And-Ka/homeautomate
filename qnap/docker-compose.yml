@@ -65,6 +65,7 @@ services:
   portainer:
     image: portainer/portainer
     container_name: portainer
+    # command probably not needed.  Equivalent of /var/run/docker.sock:/var/run/docker.sock
     command: -H unix:///var/run/docker.sock
     environment:
       - TZ=Europe/Berlin
